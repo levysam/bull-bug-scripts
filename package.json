@@ -1,0 +1,15 @@
+{
+  "name": "bull-bug-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.10.3",
+    "ulid": "^2.3.0"
+  }
+}
